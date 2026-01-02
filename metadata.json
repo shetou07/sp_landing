@@ -1,0 +1,8 @@
+{
+  "name": "Student Pesa",
+  "description": "Secure digital spending for schools made easy. Monitor spending, top up wallets, and manage student transactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
