@@ -102,7 +102,6 @@ const Home: React.FC = () => {
         <div className="mt-8 flex flex-col items-center justify-center gap-2">
           <div className="flex items-center gap-2 text-neutral-500 dark:text-neutral-400">
             <span className="material-symbols-outlined text-lg">lock</span>
-            <p className="text-sm font-medium leading-normal text-center">Protected by Secure 256-bit Encryption</p>
           </div>
         </div>
       </div>
